@@ -9,15 +9,15 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
-### Analysis 
+### Motivation 
 
-Some of the interesting questions (tasks) which can be performed on this dataset -
+With the given dataset I want to discover the following:
 
-- Understanding what content is available in different countries
-- Identifying similar content by matching text-based features
-- Network analysis of Actors / Directors and find interesting insights
-- Is Netflix has increasingly focusing on TV rather than movies in recent years.
-
+1) What is more viewed, tv shows or movies?
+2) What countries have the highest viewing rates?
+3) What genre is the most popular?
+4) Do other countries have a preferred genre?
+5) Trend of movie / tv show releases in the past decade 
 
 ### Data Dictionary 
 
@@ -33,3 +33,9 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 - Duration: Total Duration - in minutes or number of seasons
 - Listed_in : Genre
 - Description: The summary description
+
+# Acknowledgement
+
+This dataset was provided by Kaggle. All rights and dataset can be found here
+https://www.kaggle.com/shivamb/netflix-shows 
+
